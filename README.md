@@ -1,0 +1,1 @@
+I post codes here when I want them to be visble online. They're usually python notebooks. Orinigally I made this site to post codes from my blog [https://medium.com/@john.a.palmore.jr], but now I also post things from my classes.
